@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Nathaniel, a Biochemistry and Physics student interested in doing side projects that teach me about science, data, and development.
+I'm Nathaniel, a Biochemistry and Physics student interested in building side projects that teach me about science, data, and development.
 
 I work at the intersection of biochemistry, computational biology, and the physical sciences, with an interest in advancing applications in healthcare and human space exploration.
 
