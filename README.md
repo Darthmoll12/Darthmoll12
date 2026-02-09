@@ -7,7 +7,6 @@ I work at the intersection of biochemistry, computational biology, and the physi
 
 My interests lie in two domains: The biochemical sciences and the physical sciences/engineering. My specialty is being multidisciplinary in a wide variety of technical fields ranging from computer sciences to chemistry. As a life-long learner, I'm always looking for new skills to learn and new paradigms to be aquainted with. The more knowledge and experience I can obtain means that I can draw from more sources when attempting to model reality, which allows the model to be as realistic as possible. 
 
-With this in mind, I plan to continue my education and increase my multidisciplinary knowledgebase, not just to have surface-level knowledge in different fields, but to have deep, integrated, and applicable knowledge in many disciplines. 
 
 My career goals include obtaining advanced degrees in Space Systems and Biochemistry. These will allow me to bridge the gap betweeen my two favorite subjects out there: Biological science and human space exploration. I aim to advance human spaceflight capabilities while simultaneously developing strategies to preseverve human health and performance in space.
 
