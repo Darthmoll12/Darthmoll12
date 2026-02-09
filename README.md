@@ -18,7 +18,7 @@ But in the meantime, the projects in this portfolio represent some of my current
 ### 🔭 Featured Projects (Work in Progres)
 [Space Situational Awareness (SSA) Dashboard](https://github.com/Darthmoll12/SSA-Satellite-Analysis) - An open source SSA that tracks live satellite location as well as live space weather data.
 
-[BenchSide Chemical Inventory Manager](https://github.com/Darthmoll12/Benchside) - A lightweight chemical inventory manager web application designed for small chemistry research labs.
+[BenchSide Chemical Inventory Manager](https://github.com/Darthmoll12/Benchside) - A lightweight chemical inventory manager designed for small chemistry research labs.
 
 
 
