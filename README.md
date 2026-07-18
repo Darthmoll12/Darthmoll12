@@ -10,7 +10,7 @@ My interests lie in two domains: The biochemical sciences and the physical scien
 
 My career goals include obtaining advanced degrees in Bioastronautics/Biomedical Engineering. These will allow me to bridge the gap betweeen my two favorite subjects out there: Biological science and human space exploration. I aim to advance human spaceflight capabilities while simultaneously developing strategies to preseverve human health and performance in space.
 
-But in the meantime, the projects in this portfolio represent some of my current interests and provide me with additional learning opportunies. I hope you enjoy looking through them. 
+In the meantime, the projects in this portfolio represent some of my current interests and provide me with additional learning opportunies. I hope you enjoy looking through them. 
 
 
 
