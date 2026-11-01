@@ -8,7 +8,7 @@ I work at the intersection of biochemistry, engineering, and the physical scienc
 My interests lie in two domains: The biochemical sciences and the physical sciences/engineering. My specialty is being multidisciplinary in a wide variety of technical fields ranging from computer sciences to chemistry. As a life-long learner, I'm always looking for new skills to learn and new paradigms to be aquainted with. The more knowledge and experience I can obtain means that I can draw from more resources when attempting to model reality, which allows those models to be as realistic as possible. 
 
 
-My career goals include obtaining advanced degrees in Bioastronautics/Biomedical Engineering. These will allow me to bridge the gap betweeen my two favorite subjects out there: Biological science and human space exploration. I aim to advance human spaceflight capabilities while simultaneously developing strategies to preseverve human health and performance in space.
+My career goals include obtaining advanced degrees in Bioastronautics/Biomedical Engineering. These will allow me to bridge the gap between my two favorite subjects out there: Biological science and human space exploration. I aim to advance human spaceflight capabilities while simultaneously developing strategies to preserve human health and performance in space with the use of intelligent systems.
 
 In the meantime, the projects in this portfolio represent some of my current interests and provide me with additional learning opportunies. I hope you enjoy looking through them. 
 
@@ -28,17 +28,21 @@ In the meantime, the projects in this portfolio represent some of my current int
 * Javascript
 * Machine Learning fundamentals
 * Computer Vision
-* Networking
-* LiDAR and other vision sensors
 * Remote sensing hardware
+* Embedded Systems
+* Compiler theory
+* Building programming languages
+* Wearables
+* Microbiology and cell culture
+* Bio X AI
 
 
 
 ### ⚡I'm currently doing:
-* Chemistry research developing polymers for the detection of PFAS in the environment.
-* Working at Oak Ridge National Lab doing applied data science in the context of radiation detection.
+* Chemistry research developing polymers for the detection of PFAS and pesticides in the environment.
 * Leading a chemistry club to foster chemistry education and research at my institution.
 * Volunteering at the local astronomical observatory.
+* Building a neuromorphic computing-based diagnostic system analyzing DNA nanopore signals.
 
 
 ### 🔧 Tools, Languages, & Software:
